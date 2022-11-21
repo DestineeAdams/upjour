@@ -5,13 +5,13 @@
 
 
 ### libray used
--[dotenv](https://www.npmjs.com/package/dotenv)
--[express](https://www.npmjs.com/package/express)
--[mysql](https://www.npmjs.com/package/mysql)
--[path](https://www.npmjs.com/package/path)
--[hbs](https://www.npmjs.com/package/hbs)
--[nodemon my favorite node package](https://www.npmjs.com/package/nodemon)
--[bcrypt.js](https://github.com/dcodeIO/bcrypt.js#bcryptjs)
+* [dotenv](https://www.npmjs.com/package/dotenv)
+* [express](https://www.npmjs.com/package/express)
+* [mysql](https://www.npmjs.com/package/mysql)
+* [path](https://www.npmjs.com/package/path)
+* [hbs](https://www.npmjs.com/package/hbs)
+* [nodemon my favorite node package](https://www.npmjs.com/package/nodemon)
+* [bcrypt.js](https://github.com/dcodeIO/bcrypt.js#bcryptjs)
 
 
 ### Tutorials use
