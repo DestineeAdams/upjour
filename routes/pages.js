@@ -22,4 +22,9 @@ router.get("/about", (req, res) => {
     res.render('about')
 });
 
+router.get("/profile", (req, res) => {
+    // res.send("<h1> HOME Page </h1>")
+    res.render('profile')
+});
+
 module.exports = router;
