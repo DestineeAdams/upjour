@@ -7,15 +7,30 @@ still in devplovement
   <br/>
   through journaling and mood tracking.
 
+
+
+
+_________________________________________________________________________________________________________________
+
+
+### Testing
+
+**If you want to test the app in the future and give me feedback please fill out this [google form](https://forms.gle/LwgyXv3a6AmnGFpk9). I will email you when ready. Thank you in advanced for you time.**
+
+**while waiting you can see the progress of the project on my sub stacks blog called WorkingOnIt subscribe [here](https://devdes.substack.com/)**
+
+
 ___________________________________________________________________________________________________________________
 ### TODO
 
 **planing**
+
 [x] mockups
     - [figma mockups](https://www.figma.com/file/4xWlIhUssWtN4Y97LcEWl4/upjour?t=TbdfHfMknstETGho-1)
 
 
 **programing**
+
 [] login system
 [x] register system
 [x] landing page
@@ -25,13 +40,8 @@ ________________________________________________________________________________
 [] journal page
 [] make logo
 
-**testing
-if you want to test the app in the future and give me feedback please fill out this [google form](https://forms.gle/LwgyXv3a6AmnGFpk9). I will email you when ready. thank you for you time.**
 
-**while waiting you can see the progress of the project on my sub stacks blog called WorkingOnIt subscribe [here](https://devdes.substack.com/)**
-
-_________________________________________________________________________________________________________________
-
+_________________________________________________________________________________________________________________________
 ### libray used
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [express](https://www.npmjs.com/package/express)
