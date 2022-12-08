@@ -26,11 +26,11 @@ ________________________________________________________________________________
 [] make logo
 
 **testing
-if you want to test the app in the future and give me feedback please fill out this [google form](https://forms.gle/LwgyXv3a6AmnGFpk9). I will email you when ready. thank you for you time.
+if you want to test the app in the future and give me feedback please fill out this [google form](https://forms.gle/LwgyXv3a6AmnGFpk9). I will email you when ready. thank you for you time.**
 
-while waiting you can see the progress of the project on my sub stacks blog called WorkingOnIt subscribe [here](https://devdes.substack.com/)
-**
-___________________________________________________________________________________________________________________
+**while waiting you can see the progress of the project on my sub stacks blog called WorkingOnIt subscribe [here](https://devdes.substack.com/)**
+
+_________________________________________________________________________________________________________________
 
 ### libray used
 * [dotenv](https://www.npmjs.com/package/dotenv)
