@@ -1,6 +1,9 @@
 # upjour
 
-
+---
+### WHAT IS IT?
+  upjour is a planner that also allows you to keep track of your mind and mental state
+  through journaling and mood tracking.
 
 
 
