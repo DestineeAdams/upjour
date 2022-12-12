@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 **If you want to test the app in the future and give me feedback please fill out this [google form](https://forms.gle/LwgyXv3a6AmnGFpk9). I will email you when ready. Thank you in advanced for you time.**
 
-**while waiting you can see the progress of the project on my sub stacks blog called WorkingOnIt subscribe [here](https://devdes.substack.com/)**
+**while waiting you can see the progress of the project on my substacks blog called WorkingOnIt read and/or subscribe [here](https://workinonit.substack.com/)**
 
 
 ___________________________________________________________________________________________________________________
